@@ -2,9 +2,9 @@ name: Upload Website
 
 on:
   push:
-    branches: ["main"]
+    branches: ["aruns3"]
   pull_request:
-    branches: ["main"]
+    branches: ["aruns3"]
 
 jobs:
   deploy:
